@@ -1,4 +1,4 @@
-# Template cadastro
+# Template cadastro API
 
 Template para API de cadastro em Laravel (Minicurso).
 
